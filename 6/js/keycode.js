@@ -13,3 +13,8 @@ body.addEventListener("keydown", (e) => {
 //keydown : 키를 누르는 동안
 //keypress : 키를 눌렀을 때
 //keyup : 키에서 손을 뗄 때
+
+//event 객체
+
+//event.code : 키 코드
+//event.key : 키 이름
